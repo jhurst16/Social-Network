@@ -1,0 +1,26 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhurst16/Social-Network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhurst16/Social-Network/issues"
+  },
+  "homepage": "https://github.com/jhurst16/Social-Network#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  }
+}
