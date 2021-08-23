@@ -1,8 +1,7 @@
-//-- /api/thoughts
 const {
     Thought,
     User
-} = require('../model')
+} = require('../Models')
 
 
 const thoughtController = {
