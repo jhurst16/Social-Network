@@ -7,6 +7,7 @@ A backend using mongoose and noSQL database (mongoDB)
 ## Contributors
 
 - Jeremy Hurst
+- Ryan Blessing
 
 ## Built With
 
